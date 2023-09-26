@@ -5,3 +5,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ## Activity 1
 ![Alt text](Screenshots/Activity1_1.png)
+
+## Activity 2
+![Alt text](Screenshots/Activity2_1.png)
+![Alt text](Screenshots/Activity2_2.png)
