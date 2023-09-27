@@ -192,6 +192,11 @@ nav i {
   top: 5px;
 }
 
+.faFix {
+    font: normal normal normal 29px/0.5 FontAwesome;
+    padding: 0 20
+}
+
 /* main */
 
 /* main {
